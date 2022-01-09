@@ -4,7 +4,7 @@ Copyright (c) 2022 huanghongbook
 
 Permission is hereby granted free of charge to anyone who gets a Mod copy.
 Unlimited in the Mod, including but not limited to rights
-Use, copy, modify and merge. But it is not allowed to publish, distribute, sublicense and/or sell.
+Use, copy, modify and merge. But it is not allowed to publish, distribute, sublicense and,or sell.
 Copy of the Mod, and allow users of use the Mod
 According to the following conditions:
 
