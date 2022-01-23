@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "zhohome:block/zhohome_1_portal_ew"
+    },
+    "axis=x": {
+      "model": "zhohome:block/zhohome_1_portal_ns"
+    }
+  }
+}

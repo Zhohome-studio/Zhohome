@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Zhohome License"
+
+[[mods]]
+modId="zhohome"
+version="0.26.0"
+displayName="zhohome"
+credits="No"
+displayURL="https://github.com/huanghongbook/Zhohome/"
+authors="supermommy"
+
+[[dependencies.zhohome]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

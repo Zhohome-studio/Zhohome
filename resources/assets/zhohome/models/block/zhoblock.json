@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zhohome:blocks/netherrack",
+    "up": "zhohome:blocks/netherrack",
+    "north": "zhohome:blocks/netherrack",
+    "east": "zhohome:blocks/netherrack",
+    "south": "zhohome:blocks/netherrack",
+    "west": "zhohome:blocks/netherrack",
+    "particle": "zhohome:blocks/netherrack"
+  }
+}

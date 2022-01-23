@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "zhohome:zhoblock"
+    },
+    "1": {
+      "item": "zhohome:zhoblock"
+    },
+    "2": {
+      "item": "zhohome:zhoblock"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "zhohome:zh_5",
+    "count": 1
+  }
+}
